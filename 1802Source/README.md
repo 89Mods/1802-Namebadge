@@ -2,7 +2,7 @@
 <p>
 This is the source assembly for the code running on the emulated CDP1802 that powers the namebadge, as well as a tool to convert the output binary into a .png texture that can be imported into Unity.
 <br>
-Use the <a href="http://www.retrotechnology.com/memship/a18.html">A18 cross-assembler</a> to assemble using the command-line <code>./a18 main-vrc.asm -b vrc.bin -l vrc.lst/code> (works in PowerShell and bash).
+Use the <a href="http://www.retrotechnology.com/memship/a18.html">A18 cross-assembler</a> to assemble using the command-line <code>./a18 main-vrc.asm -b vrc.bin -l vrc.lst</code> (works in PowerShell and bash).
 <br>
 The output binary is converted into a .png image using the provided tool. Compile once using <code>javac B2T.java</code>, and run using <code>java B2T vrc.bin</code>
 <br>
