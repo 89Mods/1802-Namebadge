@@ -5,7 +5,7 @@
 <html>
 <h1 style="color: #50b6ff;">1802-Namebadge</h1>
 <p>
-VRC prefab for a text-scroller powered by my CDP1802 emulator shader.
+VRC prefab for a text-scroller powered by my CDP1802 emulator shader. For more technical info about this project, see <a href="https://tholin.dev/shader_1802/">here.</a/
 </p>
 
 <h1 style="color: #50b6ff;">Installation instructions</h1>
