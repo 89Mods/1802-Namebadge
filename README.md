@@ -1,3 +1,6 @@
+[![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-informational.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
+[![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/hfcRed/Among-Us-Follower/blob/main/LICENSE)
+
 <h1 style="color: #50b6ff;">1802-Namebadge</h1>
 <p>
 VRC prefab for a text-scroller powered by my CDP1802 emulator shader.
