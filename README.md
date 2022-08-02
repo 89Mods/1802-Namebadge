@@ -5,12 +5,13 @@
 <html>
 <h1 style="color: #50b6ff;">1802-Namebadge</h1>
 <p>
-VRC prefab for a text-scroller powered by my CDP1802 emulator shader. For more technical info about this project, see <a href="https://tholin.dev/shader_1802/">here.</a/
+VRC and CVR prefab for a text-scroller powered by my CDP1802 emulator shader. For more technical info about this project, see <a href="https://tholin.dev/shader_1802/">here.</a>
+<h2>Now ChilloutVR compatible!</h2>
 </p>
 
 <h1 style="color: #50b6ff;">Installation instructions</h1>
 <ol>
-<li>Import the unity package</li>
+<li>Import the correct unity package. Ensure you get the right one for the platform you're using (VRChat or ChilloutVR)</li>
 <li>Put the Nameplate prefab anywhere you like. Feel free to mess with the material settings to customize (e.g. edit the text color)</li>
 <li>To replace the placeholder sign text with your own, open the tool under <code>Tools > Tholin > 1802 Namebadge program generator</code></li>
 <li>Drop in the texture called <code>program</code>. Its right next to the prefab and this instructions file.</li>
